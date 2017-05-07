@@ -1,2 +1,2 @@
-# ZX-Password-Manager
+# ZX-PasswordManager
 In order to manage your password
